@@ -32,6 +32,8 @@ public class HelloWorld extends JFrame {
 
 		// don in local master
 		HelloWorld h3 = new HelloWorld();
+		// don in local master
+		HelloWorld h4 = new HelloWorld();
 
 	}
 
