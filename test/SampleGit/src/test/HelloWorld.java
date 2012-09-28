@@ -24,7 +24,7 @@ public class HelloWorld extends JFrame {
 	
 	public void machwas ()
 	{
-		System.out.println("HelloWorld.machwas()");
+		System.out.println("HelloWorld.machwas(123)");
 	}
 	
 
