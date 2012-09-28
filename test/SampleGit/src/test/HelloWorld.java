@@ -1,5 +1,6 @@
 package test;
 
+
 import java.awt.HeadlessException;
 
 import javax.swing.JFrame;
@@ -20,6 +21,13 @@ public class HelloWorld extends JFrame {
 		new HelloWorld();
 
 	}
+	
+	
+	public void machwas ()
+	{
+		System.out.println("HelloWorld.machwas()");
+	}
+	
 
 	/**
 	 * @param args
