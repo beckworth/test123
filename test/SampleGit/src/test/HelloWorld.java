@@ -27,7 +27,8 @@ public class HelloWorld extends JFrame {
 	public static void maintest(String[] args) {
 		// TODO Auto-generated method stub
 
-		new HelloWorld();
+		HelloWorld h1 = new HelloWorld();
+		HelloWorld h2 = new HelloWorld();
 
 	}
 
