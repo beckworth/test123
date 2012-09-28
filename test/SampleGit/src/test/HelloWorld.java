@@ -20,6 +20,13 @@ public class HelloWorld extends JFrame {
 		new HelloWorld();
 
 	}
+	
+	
+	public void machwas ()
+	{
+		
+	}
+	
 
 	/**
 	 * @param args
